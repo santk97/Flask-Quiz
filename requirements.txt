@@ -21,7 +21,7 @@ jsonschema==2.6.0
 jupyter-core==4.4.0
 lyricsgenius==1.2.3
 lyricwikia==0.1.9
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 nbformat==4.4.0
 oauthlib==3.0.1
